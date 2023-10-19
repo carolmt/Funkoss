@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ec95c0f-f6d3-4d67-8147-fc08709f209e" name="Changes" comment="YA VAAA!!!!&#10;sin mockito.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/GestionFunkos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Funko.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Funko.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Programa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Programa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/ProgramaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/ProgramaTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="6ec95c0f-f6d3-4d67-8147-fc08709f209e" name="Changes" comment="YA VAAA!!!!&#10;sin mockito." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,6 +102,15 @@
       <option name="presentableId" value="Default" />
       <updated>1697711600868</updated>
     </task>
+    <task id="LOCAL-00001" summary="YA VAAA!!!!&#10;sin mockito.">
+      <option name="closed" value="true" />
+      <created>1697745504108</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697745504108</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
